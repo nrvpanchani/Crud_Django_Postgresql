@@ -1,0 +1,19 @@
+h1{
+	color: #777777;
+}
+.wmd-panel{
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+.selectdatewidget{
+	width: auto !important;
+}
+.controls {
+	display: inline-flex;
+}
+.comment-reply{
+	display: none;
+}
+.help-block{
+	width: auto;
+}
